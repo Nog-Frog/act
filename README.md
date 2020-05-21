@@ -173,3 +173,4 @@ Want to contribute to act? Awesome! Check out the [contributing guidelines](CONT
 * Clone this repo `git clone git@github.com:nektos/act.git`
 * Run unit tests with `make check`
 * Build and install: `make install`
+12345
